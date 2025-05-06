@@ -854,5 +854,33 @@
             "tardis:charge_fail"
         ],
         "subtitle": "Sonic fails to recharge"
+    },
+	"belinda": {
+        "category": "master",
+        "sounds": [
+            "tardis:belinda"
+        ],
+        "subtitle": "TARDIS Jukebox"
+    },
+	"home": {
+        "category": "master",
+        "sounds": [
+            "tardis:home"
+        ],
+        "subtitle": "TARDIS Jukebox"
+    },
+	"sundown": {
+        "category": "master",
+        "sounds": [
+            "tardis:sundown"
+        ],
+        "subtitle": "TARDIS Jukebox"
+    },
+	"toxic": {
+        "category": "master",
+        "sounds": [
+            "tardis:toxic"
+        ],
+        "subtitle": "TARDIS Jukebox"
     }
 }
